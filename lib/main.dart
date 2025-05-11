@@ -6,8 +6,9 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // Your GitHub-hosted appcast.xml URL
-  const String feedURL =
-      'https://raw.githubusercontent.com/sjgod1427/desktop_demo_updater/main/app-cast.xml';
+  String feedURL =
+      'https://raw.githubusercontent.com/sjgod1427/demo_auto_updater/main/dist/appcast.xml';
+
   // Set feed URL
   await autoUpdater.setFeedURL(feedURL);
 
