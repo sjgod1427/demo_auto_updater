@@ -29,7 +29,7 @@
                        sparkle:edSignature="MDwCHCo/Pz8wPz1ubj8/Pww/Pz8/KkA/Pz8/dj93Y1kCHCI/Pz8/Pz8/PxQ/Qz8bP2VXFT8PbjFrPxkPNj8NCg=="
                        sparkle:version="1.0.0+5"
                        sparkle:os="windows"
-                       length="0"
+                       length="12345678"
                        type="application/octet-stream" />
         </item>
     </channel>
