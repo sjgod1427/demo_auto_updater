@@ -25,8 +25,8 @@
                 https://example.com/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/sjgod1427/demo_auto_updater/releases/download/v5/demo_auto_updater-1.0.0+5-windows-setup.exe"
-                       sparkle:edSignature="MDwCHE4/PxIIP2Y/KT9zPzRgQSYpP3FUZjQYLD8/Dz8CHCc/QD8uez9OPz8iPz8/P3kaARhWPyg/X1cQP1INCg=="
+            <enclosure url="https://github.com/sjgod1427/demo_auto_updater/releases/download/v5.0/1.0.0+5.zip"
+                       sparkle:dsaSignature="MD4CHQA/MSc/Pyt5QD8/Bz8CEy0/HzMnLD8hPxw/BT9zAh0APz8LP31FPz9GPzA/bj8vP0A/P0w/Pz8/Pz9LPw0K"
                        sparkle:version="1.0.0+5"
                        sparkle:os="windows"
                        length="12345678"
