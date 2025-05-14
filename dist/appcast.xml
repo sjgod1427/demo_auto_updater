@@ -26,8 +26,8 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/sjgod1427/demo_auto_updater/releases/download/v5/demo_auto_updater-1.0.0+5-windows-setup.exe"
-                       sparkle:dsaSignature="MDwCHDRRezjrpwOmvlPUGlheBDwr4xY/+bjPiZcR7s4CHFNhkiLWGiG+bW9IJm5KAIUSzTQ1pbqG77WuFgQ="
-                       sparkle:version="1.0.0+5"
+                       sparkle:dsaSignature="MDwCHBO3KpUYyvRpDiwDyO9vkGbe7EZGS8Vmtd9sI14CHEmckcwwLYtTHPak+6+T8hP70sfMoJ+BeBfvL90=" 
+                       sparkle:version="1.0.0+6"
                        sparkle:os="windows"
                        length="10248735"
                        type="application/octet-stream" />
