@@ -26,10 +26,10 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/sjgod1427/demo_auto_updater/releases/download/v5.0/1.0.0+5.zip"
-                       sparkle:dsaSignature="MDwCHAE/Pz8/Pz8/JTRwP3ZqPz8/HBEpeD8/Pz97PzwCHEY/WUQ/Kz8/AD8/Pz8/HT8/d3ssd25lPyo/Un4NCg=="
+                       sparkle:dsaSignature="MDwCHDRRezjrpwOmvlPUGlheBDwr4xY/+bjPiZcR7s4CHFNhkiLWGiG+bW9IJm5KAIUSzTQ1pbqG77WuFgQ="
                        sparkle:version="1.0.0+5"
                        sparkle:os="windows"
-                       length="12345678"
+                       length="0"
                        type="application/octet-stream" />
         </item>
     </channel>
