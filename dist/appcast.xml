@@ -26,7 +26,40 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/sjgod1427/demo_auto_updater/releases/download/v5/demo_auto_updater-1.0.0+5-windows-setup.exe"
-                       sparkle:dsaSignature="MDwCHCo/Pz8wPz1ubj8/Pww/Pz8/KkA/Pz8/dj93Y1kCHCI/Pz8/Pz8/PxQ/Qz8bP2VXFT8PbjFrPxkPNj8NCg=="
+                       sparkle:dsaSignature="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
+LJ8Hm6/mDBb4SK2/ieNRA1rujcauCg=="
                        sparkle:version="1.0.0+5"
                        sparkle:os="windows"
                        length="0"
